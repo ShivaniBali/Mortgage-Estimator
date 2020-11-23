@@ -10,9 +10,9 @@ URL: https://5fbb1be64c0b4b34863ffbdd--sai-mortgage-estimator.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Available Scripts
+### Installing
 
-In the project directory, you can run:
+Please run `yarn install` or `npm install` to get required packages
 
 #### `npm start`
 
@@ -25,7 +25,6 @@ You will also see any lint errors in the console.
 #### `npm run test`
 
 Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 #### `npm run build`
 
